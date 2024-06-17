@@ -1,0 +1,19 @@
+{
+    "filmes": [
+      {
+        "id": 1,
+        "titulo": "Inception",
+        "descricao": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "imagem": "https://image.tmdb.org/t/p/w500/nCbkOyOMTEwlEVHQuZQaZXh1Ohu.jpg",
+        "detalhe_adicional": "Director: Christopher Nolan"
+      },
+      {
+        "id": 2,
+        "titulo": "Interstellar",
+        "descricao": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "imagem": "https://image.tmdb.org/t/p/w500/nCbkOyOMTEwlEVHQuZQaZXh1Ohu.jpg",
+        "detalhe_adicional": "Director: Christopher Nolan"
+      }
+    ]
+  }
+  
